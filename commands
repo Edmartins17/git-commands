@@ -3,3 +3,5 @@
 	c = !git add --all && git commit
 	l = !git log --oneline
 	lp= !git log --pretty=format:'%C(blue) %C(red)%h %C(white)%d %C(cyan)%s - %C(green)%cn, %cr'
+
+# conventionalcommit.org
