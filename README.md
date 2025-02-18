@@ -22,6 +22,7 @@ remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 branch.main.remote=origin
 branch.main.merge=refs/heads/main
 
+
 git config --global --edit
 
 Abre a tela do VI
