@@ -6,6 +6,7 @@ Serve para configurar variáveis e portanto comportamentos do git para  seu user
 Exemplo:
 
 $ git config --list
+
 user.email=e********@gmail.com
 user.name=Edn************ *********8 **************
 init.defaultbranch=main
