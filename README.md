@@ -29,4 +29,12 @@ branch.main.merge=refs/heads/main
 
 git config --global --edit
 
-Abre a tela do VI
+* Abre a tela do VI para alterar o perfil em todas as pastas
+
+git config --local --edit
+
+* Abre a tela do VI para alterar o perfil em uma pasta específica
+
+git config --global core.editor "code --wait"
+
+* Altera o editor padrão para o VSCode
